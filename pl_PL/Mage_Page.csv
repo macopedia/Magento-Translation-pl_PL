@@ -64,7 +64,7 @@
 "Select date","Wybierz datę"
 "Show","Pokaż"
 "This is a demo store. Any orders placed through this store will not be honored or fulfilled.","To jest wersja demonstracyjna. Żadne zamówienia nie będą realizowane."
-"This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=""%s"">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.","Ta strona wymaga cookies do prawidłowego funkcjonowania. W celu uzyskania dokładniejszych informacji o danych przechowywanych w cookies, prosimy przejrzeć naszą <a href=""%s"">Politykę prywatności</a>. W celu akceptacji cookies, prosmy kliknać przycisk Zezwalam poniżej."
+"This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href='#'>Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.","Ta strona wymaga cookies do prawidłowego funkcjonowania. W celu uzyskania dokładniejszych informacji o danych przechowywanych w cookies, prosimy przejrzeć naszą <a href='#'>Politykę prywatności</a>. W celu akceptacji cookies, prosmy kliknać przycisk Zezwalam poniżej."
 "Time selection:","Wybór czasu:"
 "Time:","Czas:"
 "Welcome, %s!","Witaj, %s!"
