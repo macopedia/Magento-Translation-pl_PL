@@ -7,7 +7,7 @@
 "%s (Default Template from Locale)","%s (Domyślny szablon z języka)"
 "%s cache type(s) disabled.","%s typ(ów) cache zostało wyłączonych."
 "%s cache type(s) enabled.","%s typ(ów) cache zostało włączonych."
-"%s cache type(s) refreshed.","%s typ(ów) cache zostało odświerzonych."
+"%s cache type(s) refreshed.","%s typ(ów) cache zostało odświeżonych."
 "(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)","(Dla typu ""Serwer lokalny"" musisz uzyć ścieżki relatywnej do instalacji Magento var/export or var/import, np. var/export, var/import, var/export/some/dir, var/import/some/dir)"
 "(For US 2-letter state names)","(Dla US 2-literowe nazwy stanów)"
 "(If left empty will be auto-generated)","(Pozostawione puste sprawi, że zostanie wygenerowane automatycznie)"
