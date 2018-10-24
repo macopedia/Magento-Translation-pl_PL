@@ -35,7 +35,7 @@
 "Retrieve stock data by product ids","Pobierz dane stanów magazynowych wg id produktu"
 "Rule price","Reguła ceny"
 "Set Items' Status to be In Stock When Order is Cancelled","Ustaw status produktu na Dostępny kiedy zamówienie zostanie anulowane"
-"Some of the products are currently out of stock","Część produktów jest obecnie niedostępna"
+"Some of the products are currently out of stock.","Część produktów jest obecnie niedostępna."
 "Some of the products cannot be ordered in requested quantity.","Niektóre z produktów nie mogą zostać zamówione w podanej ilości."
 "Some of the products cannot be ordered in the requested quantity.","Niektóre z produktów nie mogą zostać zamówione w podanej ilości."
 "Stock Options","Opcje stanów"
